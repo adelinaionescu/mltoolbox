@@ -15,12 +15,14 @@ coverage
 flake8
 pytest
 yapf
+unittest
 
 # API
 gcsfs
 google-cloud-storage
 mlflow
 s3fs
+datetime
 
 # utilities
 six>=1.14
