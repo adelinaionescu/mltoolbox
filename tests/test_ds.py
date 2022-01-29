@@ -1,5 +1,5 @@
 import unittest
-from python_ds import convert
+from mltoolbox.python_ds import convert
 
 class TestStrings(unittest.TestCase):
     def test_convert_usd_to_eur(self):

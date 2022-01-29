@@ -1,5 +1,5 @@
 import unittest
-from python_s3 import sum3
+from mltoolbox.python_s3 import sum3
 
 class TestSumOfThree(unittest.TestCase):
     def test_numbers_0_0_0(self):

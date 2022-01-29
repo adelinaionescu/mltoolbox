@@ -1,6 +1,6 @@
 import datetime
 import unittest
-import datascrape
+from mltoolbox.datascrape import search_city
 
 
 class TestWeather(unittest.TestCase):

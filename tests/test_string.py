@@ -1,13 +1,13 @@
 import unittest
 
-from python_string import add_comma
-from python_string import belongs_to
-from python_string import count_repetition
-from python_string import is_a_question
-from python_string import replace
-from python_string import remove_surrounding_whitespaces
-from python_string import full_description_concatenation
-from python_string import full_description_formatting
+from mltoolbox.python_string import add_comma
+from mltoolbox.python_string import belongs_to
+from mltoolbox.python_string import count_repetition
+from mltoolbox.python_string import is_a_question
+from mltoolbox.python_string import replace
+from mltoolbox.python_string import remove_surrounding_whitespaces
+from mltoolbox.python_string import full_description_concatenation
+from mltoolbox.python_string import full_description_formatting
 
 
 class TestAddComma(unittest.TestCase):
