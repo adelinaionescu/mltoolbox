@@ -15,7 +15,6 @@ coverage
 flake8
 pytest
 yapf
-unittest
 
 # API
 gcsfs
